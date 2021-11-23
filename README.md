@@ -1,4 +1,4 @@
-c### - 👨‍💻 Técnico em Informática
+- 👨‍💻 Técnico em Informática
 - 📚 cursando Ciência da Computação  - UFC
 
 <!--
